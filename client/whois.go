@@ -35,7 +35,8 @@ var (
 		"02-Jan-2006",              // .co.uk
 		"2006/01/02",               // .ca
 		"2006-01-02 (YYYY-MM-DD)",  // .tw
-		"(dd/mm/yyyy): 02/01/2006", //.pt
+		"(dd/mm/yyyy): 02/01/2006", // .pt
+		"dd-MMM-yyyy HH:mm:ss",     // .id, .co.id
 	}
 
 	// nolint: lll
